@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Poppybox
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning .... geeky media mostly
-🌱 I’m currently learning ... web development and advanced graphic design
-💞️ I’m looking to collaborate on ... games. I'm also a professional illustrator with an interest in game dev.
-📫 How to reach me ... feybirdstudios@gmail.com if you want to collab on a game. Find my art at poppyp artstation
+- 👀 I’m interested in ... geeky media mostly
+- 🌱 I’m currently learning ... web development and advanced graphic design
+- 💞️ I’m looking to collaborate on ... games. I'm also a professional illustrator with an interest in game dev.
+- 📫 How to reach me ... feybirdstudios@gmail.com if you want to collab on a game. Find my art at poppyp artstation
 
 
 
